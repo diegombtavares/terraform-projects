@@ -1,3 +1,5 @@
 secrets
-.terraform
+.terraform*
+terraform.tfstate*
 aws
+ec2*
